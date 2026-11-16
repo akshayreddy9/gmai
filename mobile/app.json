@@ -52,7 +52,7 @@
       ]
     ],
     "extra": {
-      "serverUrl": "https://gmai.onrender.com",
+      "serverUrl": "https://gmai-f7k7.onrender.com",
       "router": {
         "asyncRoutes": {
           "web": true
