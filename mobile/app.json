@@ -21,7 +21,11 @@
       },
       "runtimeVersion": {
         "policy": "appVersion"
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -57,7 +61,14 @@
         "asyncRoutes": {
           "web": true
         }
+      },
+      "eas": {
+        "projectId": "66748d6d-2db5-4171-bc82-89a5d78c5191"
       }
+    },
+    "owner": "akshayreddy9848",
+    "updates": {
+      "url": "https://u.expo.dev/66748d6d-2db5-4171-bc82-89a5d78c5191"
     }
   }
 }
